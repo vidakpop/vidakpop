@@ -1,7 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<!-- GIF at the Top -->
+<p align="center">
+  <img src="https://app.lottiefiles.com/animation/a974345a-0ca6-4621-9950-7e71c8a0c850" alt="Your GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm DAVIS KIPROP NGETICH</h1>
 <h3 align="center">A passionate machine learning enthusiast, data analyst, and AI lover. Equally excited about web development and honing cybersecurity skills with Kali Linux.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vidakpop&label=Profile%20views&color=0e75b6&style=flat" alt="vidakpop" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidakpop" alt="vidakpop" /></a> </p>
